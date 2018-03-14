@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "forum.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html",
+    "currentPage": "httptask-lifted.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -152,9 +152,9 @@
         }
       ]
     },
-    "forum.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html": {
+    "httptask-lifted.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html": {
       "settings": {
-        "meta_descr": "<a id=\"nabblelink\" href=\"http://task-lifted.50113.n8.nabble.com/\">Task Lifted</a>\n<script src=\"http://task-lifted.50113.n8.nabble.com/embed/f1\"></script>",
+        "meta_descr": "",
         "title": "Forum",
         "order": 1
       },
