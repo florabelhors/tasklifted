@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "forum.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html",
+    "currentPage": "forum.html.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -153,9 +153,9 @@
         }
       ]
     },
-    "forum.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html": {
+    "forum.html.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '3f7c4658-39c6-44b3-9802-b1529f876dec', f: true }); done = true; } }; })();</script>",
         "title": "Forum",
         "order": 3
       },
