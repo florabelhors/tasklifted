@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "forum.html.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html",
+    "currentPage": "forum.html.html.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -153,9 +153,9 @@
         }
       ]
     },
-    "forum.html.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html": {
+    "forum.html.html.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html": {
       "settings": {
-        "meta_descr": "<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '3f7c4658-39c6-44b3-9802-b1529f876dec', f: true }); done = true; } }; })();</script>",
+        "meta_descr": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5aa9e982d7591465c7089399/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "title": "Forum",
         "order": 3
       },
