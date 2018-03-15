@@ -155,7 +155,7 @@
     },
     "forum.html.50113.n8.nabble.com.html.50113.n8.nabble.comTask Lifteda script src=httptask-lifted.50113.n8.nabble.comembedf1script.html": {
       "settings": {
-        "meta_descr": "<script type=\"text/javascript\">function add_chatinline(){var hccid=84547894;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline(); </script>",
+        "meta_descr": "",
         "title": "Forum",
         "order": 3
       },
