@@ -141,7 +141,7 @@ body {
   background-color: #5b686b !important;
 }
 .bg-danger {
-  background-color: #fab142 !important;
+  background-color: #ffbb44 !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -245,8 +245,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #fab142 !important;
-  border-color: #fab142 !important;
+  background-color: #ffbb44 !important;
+  border-color: #ffbb44 !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -254,14 +254,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #e98f06 !important;
-  border-color: #e98f06 !important;
+  background-color: #f69d00 !important;
+  border-color: #f69d00 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #e98f06 !important;
-  border-color: #e98f06 !important;
+  background-color: #f69d00 !important;
+  border-color: #f69d00 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -409,22 +409,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #d08006;
-  color: #d08006;
+  border-color: #dd8d00;
+  color: #dd8d00;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #fab142;
-  border-color: #fab142;
+  background-color: #ffbb44;
+  border-color: #ffbb44;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #fab142 !important;
-  border-color: #fab142 !important;
+  background-color: #ffbb44 !important;
+  border-color: #ffbb44 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -476,7 +476,7 @@ body {
   color: #5b686b !important;
 }
 .text-danger {
-  color: #fab142 !important;
+  color: #ffbb44 !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -506,7 +506,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #d08006 !important;
+  color: #dd8d00 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -526,7 +526,7 @@ a.text-black:focus {
   background-color: #5b686b;
 }
 .alert-danger {
-  background-color: #fab142;
+  background-color: #ffbb44;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -1693,38 +1693,38 @@ body {
 .cid-qMmrgpRwXa .mbr-links-column {
   color: #5b686b;
 }
-.cid-qMmPNvcJ5j {
-  padding-top: 0px;
-  padding-bottom: 90px;
+.cid-qMspjj6JPI {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-qMmPNvcJ5j .mbr-section-subtitle {
+.cid-qMspjj6JPI .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qMmPNvcJ5j .media-container-row {
+.cid-qMspjj6JPI .media-container-row {
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.cid-qMmPNvcJ5j .mbr-text {
+.cid-qMspjj6JPI .mbr-text {
   color: #767676;
 }
-.cid-qMmPNvcJ5j .mbr-author-desc {
+.cid-qMspjj6JPI .mbr-author-desc {
   display: block;
   color: #767676;
 }
-.cid-qMmPNvcJ5j .mbr-author-name {
+.cid-qMspjj6JPI .mbr-author-name {
   color: #767676;
 }
-.cid-qMmPNvcJ5j .mbr-testimonial .panel-item {
+.cid-qMspjj6JPI .mbr-testimonial .panel-item {
   background-color: #ffffff;
 }
-.cid-qMmPNvcJ5j .mbr-testimonial .card-block {
+.cid-qMspjj6JPI .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
   padding: 2.4rem 2.4rem 0 2.4rem;
 }
-.cid-qMmPNvcJ5j .mbr-testimonial .card-block .testimonial-photo {
+.cid-qMspjj6JPI .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
   width: 120px;
   height: 120px;
@@ -1732,12 +1732,12 @@ body {
   overflow: hidden;
   border-radius: 50%;
 }
-.cid-qMmPNvcJ5j .mbr-testimonial .card-block .testimonial-photo img {
+.cid-qMspjj6JPI .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
 }
-.cid-qMmPNvcJ5j .mbr-testimonial .card-footer {
+.cid-qMspjj6JPI .mbr-testimonial .card-footer {
   padding-bottom: 2.4rem;
   border-top: 0;
   padding-top: 1rem;
@@ -1746,7 +1746,7 @@ body {
   background: none;
 }
 @media (max-width: 300px) {
-  .cid-qMmPNvcJ5j .testimonial-photo {
+  .cid-qMspjj6JPI .testimonial-photo {
     width: 100% !important;
     height: auto !important;
   }
