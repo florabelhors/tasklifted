@@ -2165,12 +2165,12 @@ body {
   }
 }
 .cid-qMzy7wSFrU {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-qMzy7wSFrU .mbr-section-subtitle {
-  color: #149dcc;
+  color: #767676;
   font-weight: 300;
 }
 .cid-qMzy7wSFrU .mbr-content-text {
@@ -2221,4 +2221,7 @@ body {
 }
 .cid-qMzy7wSFrU .count {
   text-align: left;
+}
+.cid-qMzy7wSFrU .mbr-section-title {
+  color: #149dcc;
 }
