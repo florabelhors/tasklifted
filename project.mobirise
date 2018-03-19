@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "pricing.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-big-128x127.png",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -226,7 +226,7 @@
     },
     "pricing.html": {
       "settings": {
-        "meta_descr": "Website Maker Description lowest price in the philippines",
+        "meta_descr": "website designer maker at the lowest price ",
         "title": "Pricing",
         "order": 2
       },
