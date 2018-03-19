@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page6.html",
+    "currentPage": "pricing.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -226,7 +226,7 @@
     },
     "pricing.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Website Maker Description lowest price in the philippines",
         "title": "Pricing",
         "order": 2
       },
