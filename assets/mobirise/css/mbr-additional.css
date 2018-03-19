@@ -1816,7 +1816,7 @@ body {
 }
 .cid-qMhAPurxOk {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ff3366;
 }
 .cid-qMhAPurxOk .mbr-section-subtitle {
@@ -1826,12 +1826,15 @@ body {
 .cid-qMhAPurxOk .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-qMhAPurxOk .content-row {
+  flex-direction: row-reverse;
+}
 .cid-qMhAPurxOk H2 {
-  text-align: left;
+  text-align: center;
   color: #ffffff;
 }
 .cid-qMhAPurxOk .mbr-section-subtitle P {
-  text-align: center;
+  text-align: right;
   color: #ffffff;
 }
 .cid-qMHZ9ElQwT {
