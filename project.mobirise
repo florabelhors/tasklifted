@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1579,7 +1579,8 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Booking",
-        "order": 6
+        "order": 6,
+        "footer_custom": "<div id=\"vx\" data-domainid=\"682c5d56-1a75-4351-b38c-ccd6fcf1d514\"></div> \n<script src=\"https://webadvex.com/Scripts/vxrenderer/vxscript/vxrenderer.min.js \"></script> \n<script src=\"https://webadvex.com/Scripts/vxcheck/vxcheck.min.js\"></script>"
       },
       "components": [
         {
