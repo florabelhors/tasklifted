@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteUrl": "http://tasklifted.ml/",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on"
