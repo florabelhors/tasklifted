@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 132,
+    "uniqCompNum": 136,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -5704,7 +5704,8 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Promos",
-        "order": 9
+        "order": 9,
+        "footer_custom": ""
       },
       "components": [
         {
@@ -6159,6 +6160,22 @@
           ],
           "_name": "feed",
           "_anchor": "feed-2n"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Start Popup Architect -->\n{JS_CODE_0}\n<div id=\"popup_architect_container\"></div>\n<a href=\"http://popuparchitect.com\">popuparchitect.com</a>\n<!-- End Popup Architect -->\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-3r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"//app.popuparchitect.com/widgets/show/_Ig5y4Cwq4zjdx9IVrk9IA.js\" type=\"text/javascript\"></script>"
+          ]
         }
       ]
     }
