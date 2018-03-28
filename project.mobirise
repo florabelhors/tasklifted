@@ -5145,7 +5145,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<a id=\"nabblelink\" href=\"http://tasklifted.52607.n8.nabble.com/\">Tasklifted</a>\n{JS_CODE_0}\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
+          "_customHTML": "<a id=\"nabblelink\" href=\"http://tasklifted.52607.n8.nabble.com/\">Tasklifted</a>\n{JS_CODE_0}",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
