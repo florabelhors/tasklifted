@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 162,
+    "uniqCompNum": 163,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -5152,7 +5152,7 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-3x",
+          "_anchor": "custom-html-4i",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"http://tasklifted.52607.n8.nabble.com/embed/f1\"></script>"
