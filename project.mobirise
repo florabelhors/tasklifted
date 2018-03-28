@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "forum.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 140,
+    "uniqCompNum": 141,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -6167,7 +6167,9 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Blog",
-        "order": 8
+        "order": 8,
+        "header_custom": "",
+        "footer_custom": "<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=1725750880848226&autoLogAppEvents=1';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>"
       },
       "components": [
         {
@@ -6607,17 +6609,17 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<a id=\"nabblelink\" href=\"http://tasklifted.52607.n8.nabble.com/\">Tasklifted</a>\n{JS_CODE_0}\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
+          "_customHTML": "<div id=\"fb-root\"></div>\n{JS_CODE_0}\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-3u",
+          "_anchor": "custom-html-3w",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script src=\"http://tasklifted.52607.n8.nabble.com/embed/f1\"></script>"
+            "<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=1725750880848226&autoLogAppEvents=1';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>"
           ]
         },
         {
