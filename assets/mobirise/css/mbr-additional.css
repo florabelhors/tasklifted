@@ -5731,23 +5731,19 @@ body {
 .cid-qN1b08eqzK .dropdown-item:hover {
   color: #232323 !important;
 }
-.cid-qNzu5M2plT {
+.cid-qNAqRXxAEQ {
   padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-2-1440x1080.jpg");
 }
-@media (min-width: 992px) {
-  .cid-qNzu5M2plT .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qNAqRXxAEQ .mbr-section-subtitle DIV {
+  color: #c1c1c1;
 }
-@media (max-width: 992px) {
-  .cid-qNzu5M2plT .mbr-figure {
-    padding-bottom: 1rem;
-  }
+.cid-qNAqRXxAEQ .mbr-section-subtitle {
+  color: #c1c1c1;
 }
-.cid-qNzu5M2plT .mbr-text {
-  color: #767676;
+.cid-qNAqRXxAEQ P {
+  color: #b2ccd2;
 }
 #custom-html-4i {
   /* Type valid CSS here */
