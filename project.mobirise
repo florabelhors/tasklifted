@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "web design at the best prices that you'll ever find",
         "header_custom": "",
         "footer_custom": "<!-- Load Facebook SDK for JavaScript -->\n<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&autoLogAppEvents=1';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n\n<!-- Your customer chat code -->\n<div class=\"fb-customerchat\"\n  page_id=\"173045560164755\"\n  theme_color=\"#0084ff\">\n</div>",
         "html_before": ""
@@ -632,7 +632,7 @@
     },
     "pricing.html": {
       "settings": {
-        "meta_descr": "website designer maker at the lowest price ",
+        "meta_descr": "website design at the lowest price in the Philippines",
         "title": "Pricing",
         "order": 1
       },
@@ -2693,7 +2693,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "online store e-commerce",
         "title": "Store",
         "order": 4
       },
@@ -3965,7 +3965,7 @@
     },
     "page7.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "webmail custom business email",
         "title": "Webmail",
         "order": 5
       },
