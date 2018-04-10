@@ -5106,7 +5106,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<a href=\"https://smallseotools.com/visitor-hit-counter/\" target=\"_blank\" title=\"Web Counter\">\n    <img src=\"https://smallseotools.com/counterDisplay?code=&amp;style=&amp;pad=&amp;type=page&amp;initCount=\" title=\"Web Counter\" alt=\"Web Counter\" border=\"0\">\n</a>",
+          "_customHTML": "<a href=\"https://smallseotools.com/visitor-hit-counter/\" target=\"_blank\" title=\"Web Counter\">\n    <img src=\"https://smallseotools.com/counterDisplay?code=&amp;style=&amp;pad=&amp;type=page&amp;initCount=\" title=\"Web Counter\" alt=\"Web Counter\" border=\"0\">\n</a>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
