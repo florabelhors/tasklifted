@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page10.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 164,
+    "uniqCompNum": 165,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -5102,6 +5102,20 @@
           ],
           "_name": "feed",
           "_anchor": "feed-2n"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<a href=\"https://smallseotools.com/visitor-hit-counter/\" target=\"_blank\" title=\"Web Counter\">\n    <img src=\"https://smallseotools.com/counterDisplay?code=&amp;style=&amp;pad=&amp;type=page&amp;initCount=\" title=\"Web Counter\" alt=\"Web Counter\" border=\"0\">\n</a>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-4k",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
