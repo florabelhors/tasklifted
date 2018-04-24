@@ -6211,6 +6211,12 @@ body {
 .cid-qNAiIzziFH foot-menu-item {
   color: #767676;
 }
+#custom-html-4l {
+  /* Type valid CSS here */
+}
+#custom-html-4l .my-image {
+  width: 100%;
+}
 .cid-qNAbSO8jJj {
   padding-top: 45px;
   padding-bottom: 15px;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page4.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,8 +40,8 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 165,
-    "versionPublish": "4.6.6",
+    "uniqCompNum": 166,
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteUrl": "http://tasklifted.ml/",
@@ -5666,6 +5666,20 @@
           "_global": true,
           "_once": true,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Begin FusionBot.com site search engine code-->\n<form name=\"fbsearch\" method=\"get\" action=\"https://ss856.fusionbot.com/b/q\" style=\"margin:0;\">\n  <div align=\"left\"><font size=\"2\" face=\"arial\"><a href=\"https://www.fusionbot.com\" target=\"_blank\">Site Search</a>:</font><br>\n  <input type=\"text\" name=\"keys\" size=\"15\">&nbsp;\n  <input type=\"submit\" value=\"GO\"><br>\n  <font face=\"arial\" size=\"1\"><a href=\"https://ss856.fusionbot.com/b/s?sn=164244504\">sitemap</a></font>&nbsp;\n  </div>\n  <input type=\"hidden\" name=\"sn\" value=\"164244504\">\n</form> \n<!-- End FusionBot.com site search engine code -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-4l",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
