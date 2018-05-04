@@ -635,7 +635,7 @@
       "settings": {
         "meta_descr": "website design at the lowest price in the Philippines",
         "title": "Pricing",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1336,7 +1336,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Profile Builder",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1556,7 +1556,7 @@
             }
           },
           "_name": "info2",
-          "_customHTML": "<section class=\"mbr-section info2\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subttle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Text on Right/Left\" name=\"reverseContent\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#dbd4b8\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ff06a8\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#25aab2\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row main justify-content-center\">\n            <div class=\"media-container-column col-12 col-lg-3 col-md-4\">\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white\" href=\"https://mobirise.com\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>\n                    \n                    Order Form</a></div>\n            </div>\n            <div class=\"media-container-column title col-12 col-lg-7 col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"align-right mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Activate your website NOW</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    Fill-up the Order Form and see your website in 2 DAYS.</h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section info2\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subttle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Text on Right/Left\" name=\"reverseContent\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#dbd4b8\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ff06a8\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#25aab2\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row main justify-content-center\">\n            <div class=\"media-container-column col-12 col-lg-3 col-md-4\">\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white\" href=\"page12.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>\n                    \n                    Order Form</a></div>\n            </div>\n            <div class=\"media-container-column title col-12 col-lg-7 col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"align-right mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Activate your website NOW</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    Fill-up the Order Form and see your website in 2 DAYS.</h3>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qR5OiJ4Xwz",
           "_protectedParams": [],
           "_global": false,
@@ -2112,7 +2112,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Contact",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2727,7 +2727,7 @@
       "settings": {
         "meta_descr": "online store e-commerce",
         "title": "Store",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3354,7 +3354,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Booking",
-        "order": 8,
+        "order": 7,
         "footer_custom": ""
       },
       "components": [
@@ -3999,7 +3999,7 @@
       "settings": {
         "meta_descr": "webmail custom business email",
         "title": "Webmail",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -4670,7 +4670,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Add-Ons",
-        "order": 11
+        "order": 10
       },
       "components": []
     },
@@ -4678,7 +4678,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Promos",
-        "order": 12,
+        "order": 11,
         "footer_custom": ""
       },
       "components": [
@@ -5155,7 +5155,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Blog",
-        "order": 10,
+        "order": 9,
         "header_custom": "<script src=\"//inc.freefind.com/inc/ffse-overlay.min.js\" async></script>",
         "footer_custom": "<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=1725750880848226&autoLogAppEvents=1';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>"
       },
@@ -5718,7 +5718,7 @@
       "settings": {
         "meta_descr": "",
         "title": "FAQ",
-        "order": 9,
+        "order": 8,
         "footer_custom": ""
       },
       "components": [
@@ -6365,7 +6365,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Activate Your Website - PROFILE",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -6780,7 +6780,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Order Form - Profile",
-        "order": 1
+        "order": 12
       },
       "components": [
         {
