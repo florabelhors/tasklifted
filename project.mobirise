@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 186,
+    "uniqCompNum": 187,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -5126,8 +5126,8 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "postToLoad": "7",
-            "facebook": "tasklifted",
+            "postToLoad": 3,
+            "facebook": "tasklifted/",
             "twitter": "",
             "google": "",
             "youtube": "",
@@ -5144,7 +5144,12 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-55"
+          "_anchor": "feed-56",
+          "_customHTML": "<section class=\"mbr-social-feed loading\" data-facebook=\"https://www.facebook.com/tasklifted/\" data-twitter=\"\" data-google=\"\" data-posts=\"3\" data-youtube=\"\" data-rv-view=\"13\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;\">\n    \n    <img class=\"social-feed-container-loading\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/loading.svg\">\n    <div class=\"social-feed-container\">\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         }
       ]
     },
