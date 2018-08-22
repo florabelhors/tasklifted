@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 181,
+    "uniqCompNum": 182,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -8282,7 +8282,7 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-50",
+          "_anchor": "custom-html-51",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         }
