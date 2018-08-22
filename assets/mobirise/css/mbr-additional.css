@@ -5356,7 +5356,10 @@ body {
 .cid-qN1gIY5bNN {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+}
+.cid-qN1gIY5bNN H1 {
+  color: #f7c400;
 }
 .cid-qN1b08eqzK .navbar {
   background: #ffffff;
