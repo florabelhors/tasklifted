@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 185,
+    "uniqCompNum": 186,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -5127,7 +5127,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "postToLoad": "7",
-            "facebook": "https://www.facebook.com/tasklifted/",
+            "facebook": "tasklifted",
             "twitter": "",
             "google": "",
             "youtube": "",
@@ -5144,21 +5144,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-2n"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<a href=\"https://smallseotools.com/visitor-hit-counter/\" target=\"_blank\" title=\"Web Counter\">\n    <img src=\"https://smallseotools.com/counterDisplay?code=&amp;style=&amp;pad=&amp;type=page&amp;initCount=\" title=\"Web Counter\" alt=\"Web Counter\" border=\"0\">\n</a>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-4k",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_anchor": "feed-55"
         }
       ]
     },
