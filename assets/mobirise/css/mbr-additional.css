@@ -5356,10 +5356,7 @@ body {
 .cid-qN1gIY5bNN {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
-}
-.cid-qN1gIY5bNN H1 {
-  color: #f7c400;
+  background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-qN1b08eqzK .navbar {
   background: #ffffff;
@@ -5741,6 +5738,12 @@ body {
 .cid-qN1b08eqzK .nav-link:hover,
 .cid-qN1b08eqzK .dropdown-item:hover {
   color: #232323 !important;
+}
+#custom-html-4k {
+  /* Type valid CSS here */
+}
+#custom-html-4k .my-image {
+  width: 100%;
 }
 .cid-qNAqRXxAEQ {
   padding-top: 60px;
