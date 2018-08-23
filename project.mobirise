@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page14.html?1801",
+    "currentPage": "page14.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7853,10 +7853,10 @@
         }
       ]
     },
-    "page14.html?1801": {
+    "page14.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
-        "title": "Thank you",
+        "title": "Thank you 1801",
         "order": 14,
         "footer_custom": "",
         "header_custom": ""
