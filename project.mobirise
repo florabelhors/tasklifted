@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 190,
+    "uniqCompNum": 191,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -8736,6 +8736,23 @@
           "_JSplaceholders": [
             "<script type=\"text/javascript\" language=\"javascript\" id=\"pnyxeDiscussItJs\" src=\"https://www.pnyxe.shadow.com/PnyxeDiscussItJs.jsp\"></script>",
             "<script type=\"text/javascript\" language=\"javascript\" id=\"pnyxeDiscussItInitJs271459\">try { var zpbw_webWidgetClientKey = \"CRGvJ8qzqFMRF8.0vcR0dg\"; var pnyxeDiscussIt = new PnyxeDiscussIt(); pnyxeDiscussIt.init(\"271459\"); } catch (e) {}</script>"
+          ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<span style=\"display:none;\">***</span>\n{JS_CODE_0}\n{JS_CODE_1}\n<noscript>&amp;lt;a href=\"https://www.pnyxe.shadow.com/ForumIt-forum-widget?utm_source=wwcCodeSpanPromotion5\" rel=\"nofollow\"&amp;gt;Forum Widget&amp;lt;/a&amp;gt;</noscript>\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5a",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" language=\"javascript\" id=\"pnyxeForumItJs\" src=\"https://www.pnyxe.shadow.com/PnyxeForumItJs.jsp\"></script>",
+            "<script type=\"text/javascript\" language=\"javascript\" id=\"pnyxeForumItInitJs625345\">try { var zpbw_webWidgetClientKey = \"CRGvJ8qzqFMRF8.0vcR0dg\"; var pnyxeForumIt = new PnyxeForumIt(); pnyxeForumIt.init(\"625345\"); } catch (e) {}</script>"
           ]
         },
         {
