@@ -7218,7 +7218,8 @@
         "meta_descr": "Web Page Maker Description",
         "title": "Thank you",
         "order": 14,
-        "footer_custom": "<!-- Default Statcounter code for Tasklifted Website 1801\nhttp://tasklifted.ml/page14.html?1801 -->\n<script type=\"text/javascript\">\nvar sc_project=11801512; \nvar sc_invisible=0; \nvar sc_security=\"f35e1edc\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"\nhref=\"http://statcounter.com/\" target=\"_blank\"><img\nclass=\"statcounter\"\nsrc=\"//c.statcounter.com/11801512/0/f35e1edc/0/\" alt=\"Web\nAnalytics\"></a></div></noscript>\n<!-- End of Statcounter Code -->"
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5B2Q3VV\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5B2Q3VV');</script>\n<!-- End Google Tag Manager -->"
       },
       "components": [
         {
