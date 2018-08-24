@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page14.html",
+    "currentPage": "page15.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7840,7 +7840,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"PQSEAYCJZQ8RE\">\n<table>\n<tbody><tr><td><input type=\"hidden\" name=\"on0\" value=\"Billing Cycle\">Billing Cycle</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Profile\">Profile : P210.00 PHP - monthly</option>\n\t<option value=\"Profile\">Profile : P2,100.00 PHP - yearly</option>\n</select> </td></tr>\n</tbody></table>\n<input type=\"hidden\" name=\"currency_code\" value=\"PHP\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n",
+          "_customHTML": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"CC3NWBJ2P3REQ\">\n<table>\n<tbody><tr><td><input type=\"hidden\" name=\"on0\" value=\"Sponsor\">Sponsor</td></tr><tr><td><input type=\"text\" name=\"os0\" maxlength=\"200\"></td></tr>\n</tbody></table>\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
