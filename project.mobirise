@@ -1341,7 +1341,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n<noscript>&amp;lt;a href=\"//www.ecrater.com\"&amp;gt;free online store&amp;lt;/a&amp;gt;</noscript>",
+          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n<noscript>&amp;amp;amp;lt;a href=\"//www.ecrater.com\"&amp;amp;amp;gt;free online store&amp;amp;amp;lt;/a&amp;amp;amp;gt;</noscript>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
