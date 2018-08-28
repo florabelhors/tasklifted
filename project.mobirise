@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "pricing.html",
+    "currentPage": "page15.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7740,7 +7740,9 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Prices",
-        "order": 1
+        "order": 1,
+        "header_custom": "",
+        "footer_custom": "<script type=\"text/javascript\">\n<!--\necrater_widget_storeid = \"439615\";\necrater_widget_shape = \"h\";\necrater_widget_size = \"s\";\necrater_widget_country = \"us\";\n//-->\n</script>\n<script type=\"text/javascript\" src=\"https://s.ecrater.com/js/show_widget.js\"></script>\n<noscript><a href=\"//www.ecrater.com\">free online store</a></noscript>"
       },
       "components": [
         {
