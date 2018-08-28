@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tasklifted",
-    "currentPage": "page15.html",
+    "currentPage": "pricing.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 195,
+    "uniqCompNum": 196,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1337,6 +1337,23 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "{JS_CODE_0}\n{JS_CODE_1}\n<noscript>&amp;lt;a href=\"//www.ecrater.com\"&amp;gt;free online store&amp;lt;/a&amp;gt;</noscript>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5f",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n<!--\necrater_widget_storeid = \"439615\";\necrater_widget_shape = \"h\";\necrater_widget_size = \"s\";\necrater_widget_country = \"us\";\n//-->\n</script>",
+            "<script type=\"text/javascript\" src=\"https://s.ecrater.com/js/show_widget.js\"></script>"
+          ]
         }
       ]
     },

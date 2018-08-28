@@ -2472,6 +2472,12 @@ body {
 .cid-qNAjRL4D5G .dropdown-item:hover {
   color: #232323 !important;
 }
+#custom-html-5f {
+  /* Type valid CSS here */
+}
+#custom-html-5f .my-image {
+  width: 100%;
+}
 .cid-qMmbcSDSWE {
   padding-top: 60px;
   padding-bottom: 15px;
